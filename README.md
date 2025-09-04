@@ -2,7 +2,7 @@
 
 **`Tecnólogo em Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Erik Pupo Araujo, tenho 28 anos e sou natural de São Paulo Capital - Zona Leste. Concluí a Faculdade de ADS na Cruzeiro do Sul em 2022. Atualmente, estou estudando Programação de jogos e sistemas, tudo em Python! em Casa, e Agora estou procurando meu primeiro emprego de Programador-Junior. 
+Me chamo Erik Pupo Araujo, tenho 28 anos e sou natural de São Paulo Capital - Zona Leste. Concluí a Faculdade de ADS na Cruzeiro do Sul em 2022. Atualmente, estou estudando Programação de jogos e sistemas, tudo em Python! em Casa, E agora...estou procurando meu primeiro emprego de Programador-Junior. 
 
 <p align="left">
     <a href="https://github.com/ErikPupo08?tab=followers">
