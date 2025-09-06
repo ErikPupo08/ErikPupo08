@@ -23,7 +23,7 @@ Me chamo Erik Pupo Araujo, tenho 28 anos e sou natural de São Paulo Capital - Z
 
 ---
 
-### 🤖 Linguagens e teclonogias ###
+### 🤖 Linguagens e tecnologias ###
 
 <img 
     align="left"
